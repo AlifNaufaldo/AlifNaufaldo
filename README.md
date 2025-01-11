@@ -1,7 +1,7 @@
 
 - # Hi, I'm Muhammad Alif Naufaldo! 👋
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=AlifNaufaldo&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## About Me ✨
 🎓 **Fresh Graduate** from Andalas University and Hacktiv8  
