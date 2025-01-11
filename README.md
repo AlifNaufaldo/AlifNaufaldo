@@ -53,7 +53,7 @@
 ---
 
 ## Projects 🚀
-- **[PensiunPlaan](#)**: A web app that helps users plan for retirement by calculating monthly savings recommendations
+- **[PensiunPlan](https://pensiunplan.vercel.app/)**: A web app that helps users plan for retirement by calculating monthly savings recommendations
  based on their income, age, and retirement goals.  
 - **[SunMall](#)**: Asimple web-based e-commerce platform similar to MatahariMall.
 - **[Rock Paper Scissors](#)**: A real-time web app for the classic game "Rock, Paper, Scissors," enabling interactive gameplay,
