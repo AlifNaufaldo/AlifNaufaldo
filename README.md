@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @AlifNaufaldo
 
-- # Hi, I'm [Your Name]! 👋
+- # Hi, I'm Muhammad Alif Naufaldo! 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## About Me ✨
-🎓 **Fresh Graduate** from [Your University]  
+🎓 **Fresh Graduate** from Andalas University and Hacktiv8  
 🌱 **Learning**: JavaScript, React, and MongoDB  
 💻 **Passionate** about Web Development  
-⚡ **Fun Fact**: I love [hobby/interesting fact about yourself]!  
+⚡ **Fun Fact**: I love playing Invoker!  
 
 ---
 
@@ -28,15 +27,18 @@
 ---
 
 ## Projects 🚀
-- **[Project 1 Name](#)**: Short description of the project  
-- **[Project 2 Name](#)**: Short description of the project  
+- **[PensiunPlaan](#)**: A web app that helps users plan for retirement by calculating monthly savings recommendations
+ based on their income, age, and retirement goals.  
+- **[SunMall](#)**: Asimple web-based e-commerce platform similar to MatahariMall.
+- - **[Rock Paper Scissors](#)**: A real-time web app for the classic game "Rock, Paper, Scissors," enabling interactive gameplay,
+ real-time competition, and performance tracking.   
 
 ---
 
 ## Connect with Me 🤝
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/alif-naufaldo/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://portfolio.alifnaufaldo.online/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:muhammadalifnaufaldo@gmail.com)
 
 ---
 
