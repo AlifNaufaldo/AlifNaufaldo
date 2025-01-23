@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Alif Naufaldo and I'm a Full-Stack Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Alif Naufaldo <br> I'm a Full-Stack Developer, from Indonesia</h2>
 
 ###
 
