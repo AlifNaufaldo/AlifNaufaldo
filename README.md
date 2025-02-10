@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Muhammad Alif Naufaldo <br> I'm a Full-Stack Developer, from Indonesia</h2>
 
+Saya saat ini sedang belajar Go untuk memperdalam pemahaman saya tentang pemrograman backend dan concurrency. Saya tertarik dengan efisiensi dan kecepatan Go dalam menangani aplikasi berskala besar.
+
 ###
 
 <div align="center">
