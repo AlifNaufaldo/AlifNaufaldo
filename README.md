@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Alif Naufaldo <br> I'm a Full-Stack Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Alif Naufaldo <br> I'm a Full-Stack Developer, from Indonesia</h2> 
 
 I am currently learning Go to deepen my understanding of backend development and concurrency. I am interested in Go's efficiency and speed in handling large-scale applications.
 
