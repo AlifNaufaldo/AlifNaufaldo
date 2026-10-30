@@ -1,55 +1,28 @@
-<h2 align="left">Hi 👋! My name is Muhammad Alif Naufaldo <br> I'm a Full-Stack Developer, from Indonesia</h2>
+<h1 align="center">Hi 👋, I'm Alif</h1>
+<p align="center"><i>Full-Stack Dev from Indonesia 🇮🇩 • Fueled by kopi & console.log("here 2")</i></p>
 
-I am currently learning Go to deepen my understanding of backend development and concurrency. I am interested in Go's efficiency and speed in handling large-scale applications.
+---
 
-###
+### 🔭 Currently
+- 🐹 Learning **Go**, because goroutines look cool and `if err != nil` builds character
+- 🛠️ Building stuff that works on my machine™
+- 🐛 Fixing bugs I wrote yesterday
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlifNaufaldo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlifNaufaldo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🧰 Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,nodejs,express,graphql,mongodb,mysql,postgres,redis,aws,docker,gcp,firebase,jest,postman,git,cypress,go" />
+</p>
 
-###
+### 🤡 Fun facts
+- My code has 2 states: "works, don't touch it" and "doesn't work, no idea why"
+- 90% of my debugging is `console.log`, the other 10% is praying
+- Stack Overflow is my senior dev
+- Yes, I've pushed to `main` on a Friday
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWpxaW93YXNtOWpkazg5MzBsanpteDZoeHkwbHI4ang4dHlqcG52ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tELArYrjvRPb6Q7yeG/giphy.gif"  />
+### 📊 Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlifNaufaldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlifNaufaldo&layout=compact&langs_count=5&theme=radical" />
+</p>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" alt="react logo" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5 logo" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="css3 logo" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="bootstrap logo" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30" alt="tailwind logo" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="nodejs logo" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt="express logo" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30" alt="graphql logo" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" alt="reactnative logo" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="30" alt="mongodb logo" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgresql logo" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="30" alt="redis logo" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="aws logo" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="docker logo" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="30" alt="gcp logo" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="firebase logo" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="30" alt="jest logo" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="postman logo" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git logo" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="30" alt="cypress logo" />
-</div>
-
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlifNaufaldo/AlifNaufaldo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlifNaufaldo/AlifNaufaldo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AlifNaufaldo/AlifNaufaldo/output/github-snake.svg" />
-</picture>
-
-###
+<p align="center"><i>// TODO: touch grass</i></p>
