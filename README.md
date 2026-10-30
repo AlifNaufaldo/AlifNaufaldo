@@ -1,28 +1,41 @@
 <h1 align="center">Hi 👋, I'm Alif</h1>
-<p align="center"><i>Full-Stack Dev from Indonesia 🇮🇩 • Fueled by kopi & console.log("here 2")</i></p>
+<p align="center"><i>Full-Stack Dev from Indonesia 🇮🇩 • TypeScript by day, Rust & Go by curiosity</i></p>
 
----
+```rust
+struct Alif {
+    role: &'static str,
+    location: &'static str,
+    learning: Vec<&'static str>,
+    coffee: u32, // never enough
+}
 
-### 🔭 Currently
-- 🐹 Learning **Go**, because goroutines look cool and `if err != nil` builds character
-- 🛠️ Building stuff that works on my machine™
-- 🐛 Fixing bugs I wrote yesterday
+let alif = Alif {
+    role: "Full-Stack Developer",
+    location: "Indonesia",
+    learning: vec!["Go (goroutines & concurrency)", "Rust (Actix-web, SeaORM)"],
+    coffee: u32::MAX,
+};
+```
 
-### 🧰 Stack
+### 🧰 Skills
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,nodejs,express,graphql,mongodb,mysql,postgres,redis,aws,docker,gcp,firebase,jest,postman,git,cypress,go" />
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,go,react,nextjs,tailwind,nodejs,express,nestjs,postgres,redis,mongodb,docker,git,vercel,cypress,playwright" />
 </p>
+
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Rust, Go |
+| **Frontend** | React, Next.js, TanStack Table & Query, Tailwind CSS |
+| **Backend** | Node.js, Express.js, NestJS, Actix-web (Rust), WebSockets |
+| **Databases & Cloud** | PostgreSQL, SeaORM, Redis, MongoDB, Docker, Git, Vercel |
+| **AI & Dev Tooling** | Claude Code CLI, Gemini CLI, Model Context Protocol (MCP), Agentic Workflows |
+| **Testing** | Playwright, Cypress |
 
 ### 🤡 Fun facts
-- My code has 2 states: "works, don't touch it" and "doesn't work, no idea why"
-- 90% of my debugging is `console.log`, the other 10% is praying
-- Stack Overflow is my senior dev
-- Yes, I've pushed to `main` on a Friday
-
-### 📊 Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlifNaufaldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlifNaufaldo&layout=compact&langs_count=5&theme=radical" />
-</p>
+- Borrow checker marah ke gw tiap hari, tapi kita tetap berteman
+- `if err != nil` adalah love language gw di Go
+- Gw ngobrol sama AI agent lebih banyak daripada sama manusia
+- Works on my machine™
 
 <p align="center"><i>// TODO: touch grass</i></p>
