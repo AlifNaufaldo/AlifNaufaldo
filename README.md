@@ -2,8 +2,6 @@
 
 # `alifnaufaldo`
 
-**full-stack & systems engineer · Jakarta, ID**
-
 <a href="https://github.com/AlifNaufaldo">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=full-stack+%26+real-time+systems;TypeScript+%7C+Rust+%7C+Go;shipping+production+AI+workflows" alt="Typing animation" />
 </a>
