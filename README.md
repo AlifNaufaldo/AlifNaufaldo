@@ -37,20 +37,5 @@ $ status
 `frontend & ui` TypeScript · React · Next.js (App Router) · TanStack · Tailwind CSS<br />
 `data & ai tooling` PostgreSQL (Prisma, SeaORM) · Redis · Docker · Playwright · MCP · Gemini / Claude CLI
 
-### `> fun_facts`
-
-- `if err != nil` is a love language
-- the borrow checker is my strictest code reviewer—and it's usually right
-- terminal-first: if a workflow runs twice, it becomes a script or an MCP tool
-
-<div align="center">
-
-### `> contribution.exe`
-
-<img src="https://raw.githubusercontent.com/AlifNaufaldo/AlifNaufaldo/output/ocean.gif" alt="GitHub contribution snake animation" />
-
-<br />
-
-<sub><i>// TODO: touch grass</i></sub>
 
 </div>
